@@ -1,2 +1,3 @@
 # Eero-Geometry-Wars
-Simple Geometry Wars clone made for testing a very primitive version of Eero
+This is a quick little game made to test out the current state of Eero The Engine
+Video: https://streamable.com/4v0t94
